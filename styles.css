@@ -352,7 +352,10 @@ main{
         display: flex;
     }
 
-
+        .preview p {
+        width: 80%;
+    }
+    
     .logo-btn button {
         height: 28px;
         width: 120px;
